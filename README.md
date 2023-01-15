@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SDGs Center Universitas Lampung](https://sdgcenter.unila.ac.id/)
 
-- 🌱 I’m currently learning **Python, R, SQL, C++, Java**
+- 🌱 I’m currently learning **Python, R, SQL, C++, Java, and JavaScript**
 
 - 📫 How to reach me **ferli.malkan21@students.unila.ac.id**
 

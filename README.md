@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferlimalkanamien&label=Profile%20views&color=0e75b6&style=flat" alt="ferlimalkanamien" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferlimalkanamien" alt="ferlimalkanamien" /></a> </p>
-
 - 🔭 I’m currently working on [SDGs Center Universitas Lampung](https://sdgcenter.unila.ac.id/)
 
 - 🌱 I’m currently learning **Python, R, SQL, C++, Java, Graphic Design**
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferlimalkanamien&show_icons=true&locale=en" alt="ferlimalkanamien" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferlimalkanamien&" alt="ferlimalkanamien" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferlimalkanamien" alt="ferlimalkanamien" /></a> </p>

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferlimalkanamien&label=Profile%20views&color=0e75b6&style=flat" alt="ferlimalkanamien" /> </p>
 
-- 🔭 I’m currently working on [SDGs Center Universitas Lampung](https://sdgcenter.unila.ac.id/)
+- 🔭 I’m currently working on [SDGs Center Universitas Lampung](https://sdgcenter.unila.ac.id/) and [Himakom Universitas Lampung](https://himakom.fmipa.unila.ac.id/)
 
 - 🌱 I’m currently learning **Python, R, SQL, C++, Java, Graphic Design**
 

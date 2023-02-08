@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SDGs Center Universitas Lampung](https://sdgcenter.unila.ac.id/) and [Himakom Universitas Lampung](https://himakom.fmipa.unila.ac.id/)
 
-- 🌱 I’m currently learning **Python, R, SQL, C++, Java, Graphic Design**
+- 🌱 I’m currently learning **Python, R, SQL, C++, Java, Graphic Design, Tech**
 
 - 📫 How to reach me **ferli.malkan21@students.unila.ac.id**
 

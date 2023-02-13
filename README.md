@@ -49,7 +49,6 @@
 
 | 🎓 Courses | [DQLab](https://github.com/FerliMalkanAmien/DQLab) · [Dicoding](https://github.com/FerliMalkanAmien/Dicoding) · [Progate](https://github.com/FerliMalkanAmien/Progate) |
 |:--------|:--------------------|
-## 📃 Latest Articles
 
 <img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
 
@@ -61,6 +60,5 @@
   <a href="mailto:ferli.malkan21@students.unila.ac.id" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
   <a href="https://www.facebook.com/FerliMalkanAmien" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
   <a href="https://www.instagram.com/ferli_malkan_amien" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
-<!--   <a href="https://twitter.com/my_arist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   -->
   <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
 </p>

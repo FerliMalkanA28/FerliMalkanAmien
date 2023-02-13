@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ferli Malkan Amien</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ferli Malkan Amien</h1>
 <h3 align="center">Data and Machine Learning Enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferlimalkanamien&label=Profile%20views&color=0e75b6&style=flat" alt="ferlimalkanamien" /> </p>
@@ -29,3 +29,38 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ferlimalkanamien&theme=tokyonight" alt="ferlimalkanamien" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferlimalkanamien&theme=tokyonight" alt="ferlimalkanamien" /></a> </p>
+ -->
+ 
+ <img align='right' src = "https://github.com/FerliMalkanAmien/github-stats-transparent/blob/output/generated/overview.svg">
+
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Ferli 🧑🏻
+
+<p align="justify">
+  I am a bachelor graduate with a Data Science specialization and I have passionate about Big Data, Artificial Intelligence, Machine Learning, and Natural Language Processing. I have been in several training programs in an internship or boot camp that focus on the field of Data Science.
+</p>
+
+<!-- ## 👁‍🗨 Visitors Count -->
+
+![Visitor Count](https://profile-counter.glitch.me/{FerliMalkanAmien/count.svg)
+
+<img align='right' src = "https://github.com/FerliMalkanAmien/github-stats-transparent/blob/output/generated/languages.svg">
+
+ ## ⭐ Popular Repositories
+
+| 🎓 Courses | [DQLab](https://github.com/FerliMalkanAmien/DQLab) · [Dicoding](https://github.com/FerliMalkanAmien/Dicoding) · [Progate](https://github.com/FerliMalkanAmien/Progate) |
+|:--------|:--------------------|
+## 📃 Latest Articles
+
+<img align='right' src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="150px">
+
+## 🔍 You Can Find Me at
+
+<p>
+  <a href="https://www.linkedin.com/in/FerliMalkanAmien" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.kaggle.com/FerliMalkanAmien" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>  
+  <a href="mailto:ferli.malkan21@students.unila.ac.id" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>    
+  <a href="https://www.facebook.com/FerliMalkanAmien" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
+  <a href="https://www.instagram.com/ferli_malkan_amien" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+<!--   <a href="https://twitter.com/my_arist" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>   -->
+  <a href="https://wa.me/" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
+</p>

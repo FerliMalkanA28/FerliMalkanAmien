@@ -3,7 +3,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ferlimalkanamien&show_icons=true&locale=en&theme=tokyonight" alt="ferlimalkanamien" /></p>
 
 <p align="justify">
-  I am a computer science major with an interest in Data Science, Artificial Intelligence, and Machine Learning. I have attended several boot camp training programs focused on the Data Science field.
+  I am a computer science major with an interest in Data Science, Artificial Intelligence, and Machine Learning. I have attended several bootcamp training programs focused on the Data Science field.
 </p>
 
 <!-- ## 👁‍🗨 Visitors Count -->
